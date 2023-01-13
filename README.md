@@ -3,18 +3,18 @@ Simple Portfolio template using HTML/CSS/Javascript
 
 This is a simple portfolio website created using HTML, CSS, and JavaScript. It includes an "About" section, a "Projects" section, and a "Contact" form. The website is fully responsive and works on all devices.
 
-Getting Started
+## Getting Started
 
 To get started, simply clone or download the repository and open the index.html file in your web browser.
 
-Features
+## Features
 Fully responsive design
 Simple and clean layout
 "About" section to showcase your skills and experience
 "Projects" section to showcase your work
 "Contact" form to allow visitors to get in touch with you
 
-Customization
+## Customization
 
 You can customize the website by editing the HTML, CSS, and JavaScript files.
 
@@ -31,6 +31,6 @@ JavaScript
 The JavaScript file is used to add interactivity to the website. You can edit the JavaScript to add new features or change the behavior of the website.
 
 
-Deployment
+## Deployment
 
 To deploy the website, you can use a hosting service such as GitHub Pages, Netlify, Vercel or Firebase. You can also host the website on your own server.
