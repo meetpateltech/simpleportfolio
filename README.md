@@ -29,7 +29,7 @@ The CSS file is used to style the website. You can edit the CSS to change the co
 JavaScript
 
 The JavaScript file is used to add interactivity to the website. You can edit the JavaScript to add new features or change the behavior of the website.
-
+(In this repository the Javascript itself includes in HTML file if you want to add more JS function then edit script.js file and include path source in HTML File)
 
 ## Deployment
 
